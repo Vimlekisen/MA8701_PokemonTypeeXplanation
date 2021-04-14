@@ -41,3 +41,5 @@ MAP_LABELS_INV = {
     17 : 'Flying',
     18 : 'NaN',
 }
+
+NUM_CLASSES = 19
