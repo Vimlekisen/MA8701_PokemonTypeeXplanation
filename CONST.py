@@ -1,3 +1,5 @@
+NUM_CLASSES = 19
+
 MAP_LABELS = {
     'Water'   : 0,
     'Normal'  : 1,
@@ -42,4 +44,23 @@ MAP_LABELS_INV = {
     18 : 'NaN',
 }
 
-NUM_CLASSES = 19
+
+MAP_FINGERS = {
+    0  : '0L',
+    1  : '1L',
+    2  : '2L',
+    3  : '3L',
+    4  : '4L',
+    5  : '5L',
+    6  : '0R',
+    7  : '1R',
+    8  : '2R',
+    9  : '3R',
+    10 : '4R',
+    11 : '5R',
+}
+
+
+
+
+
